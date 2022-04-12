@@ -1,20 +1,10 @@
 {
-    "latest": "2.0.2",
+    "latest": "1.1.2",
     "patchnotes": {
         "1.1.2": {
-            "Bugfixes": [
-                "Fixed a bug where players could sell the same house multiple times by disconnecting the internet."
-            ],
+            "Bugfixes": null,
             "News": [
                 "Added versioncheck"
-            ]
-        },
-        "2.0.2": {
-            "News": [
-                "Added Interactable Furniture, such as stripper pole & chair."
-            ],
-            "Bugfixes":[
-                "The inventory should now work on QBCore"
             ]
         }
     }
