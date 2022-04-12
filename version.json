@@ -2,9 +2,13 @@
     "latest": "1.1.2",
     "patchnotes": {
         "1.1.2": {
-            "Bugfixes": null,
+            "Bugfixes": [
+                "Just For Fun",
+                "Test"
+            ],
             "News": [
-                "Added versioncheck"
+                "Added versioncheck",
+                "Test"
             ]
         }
     }
