@@ -1,0 +1,55 @@
+{
+    "latest": "2.0.2",
+    "patchnotes": {
+        "1.1.2": {
+            "Bugfixes": [
+                "Fixed a bug where players could sell the same house multiple times by disconnecting the internet."
+            ],
+            "News": [
+                "Added versioncheck",
+                "Added support for ox_inventory (BETA)",
+                "Added /furnish command",
+                "Added the ability to create furniture consisting of multiple objects"
+            ]
+        },
+        "1.1.3": {
+            "News": [
+                "Added support for K4MB1's new shells",
+                "Added the ability to change your lock",
+                "Added support for cd_easytime"
+            ]
+        },
+        "2.0.0": {
+            "News": [
+                "Rewrote the entire script",
+                "Better performance",
+                "Support for MLO, IPL & shells",
+                "Easier to use",
+                "Support for apartments",
+                "Support for QBCore"
+            ],
+            "Download": [
+                "Download should be on your keymaster, if you bought the script before I switched to tebex, please dm me on discord",
+                "Discord: Loaf Scripts#7785"
+            ]
+        },
+        "2.0.1": {
+            "News": [
+                "When someone is knocking on your door, you can now let them in",
+                "Added support for multiple K4MB1 shell packs"
+            ]
+        },
+        "2.0.2": {
+            "News": [
+                "Added Interactable Furniture, such as stripper pole & chair."
+            ],
+            "Bugfixes":[
+                "The inventory should now work on QBCore"
+            ],
+            "Download": [
+                "Download should be on your keymaster, if you bought the script before I switched to tebex, please dm me on discord",
+                "Discord: Loaf Scripts#7785"
+            ]
+        }
+    }
+}
