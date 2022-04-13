@@ -1,0 +1,11 @@
+{
+    "latest": "1.1.0",
+    "patchnotes": {
+        "1.1.0": {
+            "Bugfixes": null,
+            "News": [
+                "Added VersionCheck",
+            ]
+        }
+    }
+}
