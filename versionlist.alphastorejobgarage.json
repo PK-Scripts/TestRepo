@@ -2,9 +2,12 @@
     "latest": "2.1.0",
     "patchnotes": {
         "2.1.0": {
-            "Bugfixes": null,
+            "Bugfixes": [
+                "You can now use extras on soceity vehicles"
+            ],
             "News": [
                 "Added VersionCheck",
+                "Added SoceityVehicle Extras"
             ]
         }
     }
