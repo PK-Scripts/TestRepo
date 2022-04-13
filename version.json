@@ -10,6 +10,16 @@
                 "Added versioncheck",
                 "Test"
             ]
+        },
+        "2.1.2": {
+            "Bugfixes": [
+                "Just Fun",
+                "Test"
+            ],
+            "News": [
+                "versioncheck",
+                "Test"
+            ]
         }
     }
 }
