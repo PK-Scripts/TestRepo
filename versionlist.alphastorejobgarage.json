@@ -23,6 +23,13 @@
             "News": [
                 "Added SocietyVehicle choose plate menu"
             ]
+        },
+        "2.2.4": {
+            "Bugfixes": [
+                "Fixed SocietyVehicles vehiclemod",
+                "Fixed null state in database"
+            ],
+            "News": null
         }
     }
 }
