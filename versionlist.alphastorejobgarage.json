@@ -30,6 +30,13 @@
                 "Fixed null state in database"
             ],
             "News": null
+        },
+        "2.3.0": {
+            "Bugfixes": null,
+            "News": [
+                "Added api",
+                "Made that you can make vehicleplate 'POL 123'"
+            ]
         }
     }
 }
