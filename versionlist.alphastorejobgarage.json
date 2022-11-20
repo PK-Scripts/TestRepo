@@ -45,5 +45,11 @@
                 "You can now change everything of the marker per position"
             ]
         }
+        "2.4.1": {
+            "Bugfixes": null,
+            "News": [
+                "Added support for new esx"
+            ]
+        }
     }
 }
