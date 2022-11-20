@@ -1,5 +1,5 @@
 {
-    "latest": "2.4.0",
+    "latest": "2.4.1",
     "patchnotes": {
         "2.1.0": {
             "Bugfixes": [
@@ -44,7 +44,7 @@
                 "Added support for textui",
                 "You can now change everything of the marker per position"
             ]
-        }
+        },
         "2.4.1": {
             "Bugfixes": null,
             "News": [
